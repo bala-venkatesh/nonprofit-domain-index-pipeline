@@ -187,3 +187,5 @@ Containing deduplicated nonprofit candidate domains with scoring metadata.
 Bala Venkatesh  
 AWS Data Engineer  
 Python | Spark | AWS | Data Engineering
+
+This project processes publicly available web crawl datasets from Common Crawl and extracts only domain-level organizational metadata. No personally identifiable information (PII) is collected or processed.
