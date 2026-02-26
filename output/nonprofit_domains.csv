@@ -1,0 +1,626 @@
+root_domain,nonprofit_score,signals
+1947partitionarchive.org,3,"['donate', 'mission']"
+412abilitytech.org,3,"['foundation', 'mission']"
+aaa.org.hk,3,"['donate', 'mission']"
+aafront.org,9,"['501(c)(3)', 'charity', 'donate']"
+aaphc.org,1,['mission']
+ablessing2nations.org,3,"['donate', 'mission']"
+accrf.org,5,"['donate', 'foundation', 'mission']"
+acofp.org,3,"['foundation', 'mission']"
+adflegal.org,9,"['501(c)(3)', 'charity', 'donate']"
+adrindia.org,3,"['donate', 'mission']"
+adult-fanfiction.org,3,"['donate', 'mission']"
+ae-info.org,1,['mission']
+aegistrust.org,5,"['charity', 'donate', 'mission']"
+aeranfoundation.org,2,['foundation']
+africa-in-motion.org.uk,2,['donate']
+agakhanhospitals.org,2,['foundation']
+ahwendowment.org,3,['nonprofit']
+aip.org,1,['mission']
+airbarrier.org,3,"['foundation', 'mission']"
+ajc.org,3,"['donate', 'mission']"
+aksa-sds.org,1,['mission']
+albanypinebush.org,3,"['donate', 'mission']"
+allstonbrightoncdc.org,3,"['donate', 'mission']"
+altervista.org,1,['mission']
+ama-assn.org,1,['mission']
+amfund.org,5,"['nonprofit', 'foundation']"
+amissionofmercy.org,1,['mission']
+ams.org,1,['mission']
+anglican.org,5,"['charity', 'foundation', 'mission']"
+annfammed.org,1,['mission']
+apache.org,3,"['foundation', 'mission']"
+apiqwtc.org,2,['donate']
+appraisalinstitute.org,2,['foundation']
+apr.org,3,"['donate', 'mission']"
+archive.org,11,"['501(c)(3)', 'nonprofit', 'donate', 'mission']"
+art-action.org,3,"['foundation', 'mission']"
+artsfuse.org,3,"['donate', 'mission']"
+artuk.org,6,"['charity', 'donate', 'foundation']"
+arutla.org,7,"['charity', 'donate', 'foundation', 'mission']"
+arxiv.org,5,"['donate', 'foundation', 'mission']"
+ashdownforest.org,3,"['donate', 'mission']"
+ashefrescoes.org,2,['foundation']
+aspistrategist.org.au,1,['mission']
+asrt.org,3,"['donate', 'mission']"
+athletics.org.nz,1,['mission']
+atr.org,2,['donate']
+audiodharma.org,4,"['donate', 'foundation']"
+authenticitytheater.org,2,['donate']
+autism-all-stars.org,2,['charity']
+autism.org.uk,5,"['charity', 'donate', 'mission']"
+autograph.org.uk,7,"['charity', 'donate', 'foundation', 'mission']"
+azpbs.org,6,"['nonprofit', 'foundation', 'mission']"
+bahai-library.org,3,"['foundation', 'mission']"
+bampfa.org,3,"['donate', 'mission']"
+baseballhall.org,5,"['donate', 'foundation', 'mission']"
+bbgdubai.org,1,['mission']
+bcwales.org,3,"['donate', 'mission']"
+beagleboard.org,8,"['501(c)(3)', 'foundation', 'mission']"
+beardsleyzoo.org,7,"['501(c)(3)', 'donate']"
+beesforlifeasso.org,1,['mission']
+benedictacademy.org,1,['mission']
+bestforpets.org,3,"['donate', 'mission']"
+bethanyschool.org,3,"['donate', 'mission']"
+bihealth.org,1,['mission']
+bioedge.org,3,"['donate', 'mission']"
+biorxiv.org,1,['mission']
+bnaps.org,1,['mission']
+bostonbar.org,5,"['donate', 'foundation', 'mission']"
+bowelcanceruk.org.uk,6,"['charity', 'donate', 'foundation']"
+bradfordcarealliance.org,1,['mission']
+brethren.org,1,['mission']
+bridesbest.org,3,"['foundation', 'mission']"
+brightfunds.org,7,"['nonprofit', 'donate', 'foundation']"
+britishmuseum.org,2,['donate']
+broadwayrose.org,4,"['donate', 'foundation']"
+brodstonehealthcare.org,3,"['foundation', 'mission']"
+brownstone.org,10,"['501(c)(3)', 'nonprofit', 'donate']"
+burningman.org,5,"['donate', 'foundation', 'mission']"
+bydc.org,2,['donate']
+byuradio.org,3,"['donate', 'mission']"
+caaplaurentides.org,1,['mission']
+cal.org,3,"['donate', 'mission']"
+cali.org,1,['mission']
+californiahumandevelopment.org,3,"['donate', 'mission']"
+cambermentalhealth.org,3,"['donate', 'mission']"
+cambridge.org,1,['mission']
+cancerpatientservices.org,8,"['nonprofit', 'charity', 'donate', 'mission']"
+cancersupportdelaware.org,2,['donate']
+cannarchives.org,1,['mission']
+carllevincenter.org,1,['mission']
+carnegieart.org,3,"['charity', 'mission']"
+casebook.org,1,['mission']
+catholicprofiles.org,2,['donate']
+catholicsun.org,1,['mission']
+cattales.org,6,"['nonprofit', 'donate', 'mission']"
+cbcc.org.uk,3,"['charity', 'mission']"
+cbintmilwaukee.org,1,['mission']
+ccjm.org,3,"['foundation', 'mission']"
+cclancaster.org,1,['mission']
+cdlib.org,1,['mission']
+cecotinternacionalitzacio.org,1,['mission']
+cedars-sinai.org,8,"['501(c)(3)', 'nonprofit']"
+celiacenter.org,3,"['donate', 'mission']"
+centralchristian.org,3,"['foundation', 'mission']"
+cfalleghenies.org,10,"['nonprofit', 'charity', 'donate', 'foundation', 'mission']"
+cfs.org.tw,2,['foundation']
+cfsem.org,12,"['501(c)(3)', 'nonprofit', 'charity', 'foundation']"
+cgfmanet.org,3,"['donate', 'mission']"
+chautauquasportshalloffame.org,6,"['501(c)(3)', 'mission']"
+chicagoprelearning.org,1,['mission']
+chicagoregionfoodfund.org,3,['nonprofit']
+christianscare.org,7,"['501(c)(3)', 'donate']"
+cifss.org,1,['mission']
+cis-india.org,2,['donate']
+cityoffoley.org,2,['donate']
+clarashouse.org,2,['donate']
+classicist.org,2,['donate']
+clerus.org,1,['mission']
+climatedisinformation.org,1,['mission']
+cmzoo.org,1,['mission']
+cnfa.org,3,"['foundation', 'mission']"
+cofecon.org.br,2,['foundation']
+cohenveteransbioscience.org,10,"['501(c)(3)', 'donate', 'foundation', 'mission']"
+comalisd.org,2,['foundation']
+comingtothetable.org,2,['donate']
+composersforum.org,1,['mission']
+congresfrancaispsychiatrie.org,1,['mission']
+connectumc.org,1,['mission']
+consortchorale.org,2,['donate']
+consumer.org.hk,1,['mission']
+consumercal.org,5,"['donate', 'foundation', 'mission']"
+coolidgefoundation.org,4,"['donate', 'foundation']"
+coralspringscommunitychest.org,2,['donate']
+coseepacificpartnerships.org,2,['foundation']
+cosmostore.org,2,['foundation']
+counselling-directory.org.uk,1,['mission']
+courtsquaretheater.org,6,"['nonprofit', 'donate', 'mission']"
+coventry.org.uk,1,['mission']
+cpr.org,3,"['donate', 'mission']"
+creative-lives.org,2,['charity']
+creativecommons.org,2,['donate']
+crimsoneducation.org,3,"['foundation', 'mission']"
+crisisgroup.org,2,['donate']
+crystalcove.org,7,"['501(c)(3)', 'donate']"
+cumorah.org,1,['mission']
+danceartsacademyoc.org,2,['foundation']
+datacenterhub.org,2,['foundation']
+davisvanguard.org,3,"['donate', 'mission']"
+daysforgirls.org,6,"['501(c)(3)', 'mission']"
+deb-multimedia.org,2,['donate']
+delawarepublic.org,2,['donate']
+delhicwd.org,1,['mission']
+deweyanimals.org,2,['donate']
+digitalworksjobs.org,3,"['foundation', 'mission']"
+digtech.org,1,['mission']
+diva-portal.org,2,['foundation']
+divinitybc.org,3,"['donate', 'mission']"
+dogtraineracademy.org,1,['mission']
+dollyslegacyanimalrescue.org,3,"['donate', 'mission']"
+donorbox.org,7,"['501(c)(3)', 'donate']"
+dravetfoundation.org,5,"['donate', 'foundation', 'mission']"
+dukehealth.org,1,['mission']
+dunoonhillrunners.org.uk,1,['mission']
+dwih-newdelhi.org,3,"['foundation', 'mission']"
+e-n.org.uk,2,['charity']
+earthconservationcorps.org,2,['donate']
+eastbournechurches.org,1,['mission']
+ebonyambassadors.org,3,"['donate', 'mission']"
+eclipse.org,4,"['donate', 'foundation']"
+ecri.org,1,['mission']
+edf.org,11,"['501(c)(3)', 'nonprofit', 'donate', 'mission']"
+ediillinois.org,1,['mission']
+edublogs.org,2,['donate']
+edweek.org,4,"['nonprofit', 'mission']"
+efdni.org,3,"['charity', 'mission']"
+eff.org,6,"['charity', 'donate', 'foundation']"
+effectivealtruism.org,2,['foundation']
+effie.org,3,"['foundation', 'mission']"
+ehop.org,4,"['donate', 'foundation']"
+elevationweb.org,8,"['nonprofit', 'donate', 'foundation', 'mission']"
+englishpost.org,1,['mission']
+eol.org,2,['donate']
+epicislands.org,4,"['donate', 'foundation']"
+epo.org,3,"['foundation', 'mission']"
+equalitybywords.org,1,['mission']
+equinephotographers.org,1,['mission']
+equip.org,2,['donate']
+ercptjournal.org,2,['foundation']
+erowid.org,1,['mission']
+estatenetwork.org,3,['nonprofit']
+etzhayimhhb.org,2,['donate']
+eu.org,1,['mission']
+europeanwomeninmaths.org,1,['mission']
+europeum.org,3,"['foundation', 'mission']"
+evolutionaryeducation.org,2,['foundation']
+ewg.org,13,"['501(c)(3)', 'nonprofit', 'donate', 'foundation', 'mission']"
+eyemantra.org,5,"['donate', 'foundation', 'mission']"
+famillesrurales.org,1,['mission']
+familychurchbryant.org,1,['mission']
+familydoctor.org,1,['mission']
+familytofamily.org,1,['mission']
+fantastic-arts.org,1,['mission']
+farmland.org,2,['donate']
+fatherlandgroup.org,2,['donate']
+festivalnapavalley.org,6,"['nonprofit', 'donate', 'mission']"
+filsonhistorical.org,3,"['donate', 'mission']"
+fipsd.org,1,['mission']
+firstthingsfirst.org,1,['mission']
+fljc.org,7,"['nonprofit', 'donate', 'foundation']"
+flowjournal.org,1,['mission']
+flvc.org,1,['mission']
+fondationmarieclarac.org,3,"['donate', 'mission']"
+food4sustainability.org,1,['mission']
+foodschmooze.org,3,"['donate', 'mission']"
+fortefoundation.org,4,"['donate', 'foundation']"
+forthewiin.org,1,['mission']
+forumactif.org,1,['mission']
+forumgratuit.org,1,['mission']
+forzearmate.org,1,['mission']
+fosterclosetofmichigan.org,5,"['nonprofit', 'donate']"
+freebdsmxxx.org,5,"['charity', 'donate', 'mission']"
+freehistoryproject.org,2,['donate']
+frontiersin.org,3,"['foundation', 'mission']"
+futureengineers.org,1,['mission']
+gafcon.org,7,"['charity', 'donate', 'foundation', 'mission']"
+gaj.org.uk,1,['mission']
+gardenspotcommunities.org,1,['mission']
+gbible.org,3,"['donate', 'mission']"
+geoinstitute.org,1,['mission']
+georgiactsa.org,3,"['donate', 'mission']"
+getcomics.org,3,"['donate', 'mission']"
+gi.org,2,['donate']
+giornaliste.org,2,['foundation']
+give.org.kw,2,['charity']
+glaucoma.org,10,"['nonprofit', 'charity', 'donate', 'foundation', 'mission']"
+glenmeadow.org,1,['mission']
+globalreportingprogram.org,2,['donate']
+gotmag.org,1,['mission']
+greatfallsdiscoverycenter.org,2,['donate']
+grisda.org,1,['mission']
+grist.org,6,"['nonprofit', 'donate', 'mission']"
+gtg.org.tw,2,['donate']
+gunowners.org,3,"['donate', 'mission']"
+gyanjyotifoundation.org.in,2,['foundation']
+h5p.org,1,['mission']
+halopedia.org,2,['charity']
+hampsteadshul.org.uk,2,['donate']
+handsofthecarpenter.org,9,"['501(c)(3)', 'donate', 'foundation']"
+harbus.org,1,['mission']
+harmerstown.org,2,['foundation']
+healthychristchurch.org.nz,3,"['charity', 'mission']"
+hernandoeducationfoundation.org,5,"['donate', 'foundation', 'mission']"
+hiff.org,2,['donate']
+historycouncilnsw.org.au,3,"['charity', 'mission']"
+hkicpa.org.hk,3,"['foundation', 'mission']"
+hlc.org.uk,1,['mission']
+hopto.org,1,['mission']
+horror.org,1,['mission']
+hospitalitynet.org,4,"['charity', 'donate']"
+hpcalc.org,1,['mission']
+hpfanfiction.org,1,['mission']
+hpvcancerfreega.org,1,['mission']
+hrpub.org,1,['mission']
+hshv.org,2,['donate']
+humanrightsuk.org,1,['mission']
+hungeractionnys.org,2,['donate']
+hunnarshala.org,3,"['foundation', 'mission']"
+hydecollection.org,3,"['donate', 'mission']"
+hydroreform.org,1,['mission']
+hypotheses.org,1,['mission']
+iaea.org,1,['mission']
+iafor.org,3,"['foundation', 'mission']"
+iajw.org,1,['mission']
+iaslc.org,4,"['donate', 'foundation']"
+ibma.org,5,"['donate', 'foundation', 'mission']"
+icann.org,4,"['charity', 'foundation']"
+icar-ciwa.org.in,1,['mission']
+icchp-aaate.org,1,['mission']
+ictj.org,5,"['donate', 'foundation', 'mission']"
+iemed.org,1,['mission']
+iexaminer.org,3,['nonprofit']
+iflos.org,3,"['foundation', 'mission']"
+igoministries.org,3,"['donate', 'mission']"
+iisd.org,2,['foundation']
+ijitee.org,1,['mission']
+ilsa.org,7,"['501(c)(3)', 'donate']"
+immanuelschoollambeth.org,3,"['foundation', 'mission']"
+in-mind.org,4,"['donate', 'foundation']"
+indiaenvironmentportal.org.in,1,['mission']
+infidels.org,1,['mission']
+internetsociety.org,8,"['nonprofit', 'donate', 'foundation', 'mission']"
+intonationmusic.org,3,['nonprofit']
+investlouisiana.org,5,"['donate', 'foundation', 'mission']"
+ipcf.org.tw,2,['foundation']
+ipsacademy.org,1,['mission']
+irena.org,1,['mission']
+isc2.org,1,['mission']
+isls.org,1,['mission']
+ithistory.org,3,"['donate', 'mission']"
+iwgsingapore.org,2,['charity']
+jaclalaska.org,2,['donate']
+jamestown.org,4,"['donate', 'foundation']"
+jarodcharity.org.sa,2,['charity']
+jcdronline.org,1,['mission']
+jd.org.tr,1,['mission']
+jolietymca.org,3,"['donate', 'mission']"
+jooble.org,1,['mission']
+jorba.org,8,"['501(c)(3)', 'donate', 'mission']"
+jugendkirchen.org,2,['charity']
+jurnalsukma.org,1,['mission']
+justiciajuvenil.org.bo,2,['foundation']
+kansasaap.org,1,['mission']
+kawc.org,2,['donate']
+kbicenter.org,7,"['501(c)(3)', 'donate']"
+kde.org,1,['mission']
+kfionline.org,2,['foundation']
+khyentsefoundation.org,2,['foundation']
+kmuw.org,2,['donate']
+krwg.org,3,"['donate', 'mission']"
+ksmu.org,3,"['donate', 'mission']"
+kunc.org,2,['donate']
+laetusinpraesens.org,2,['foundation']
+lakeland-orienteering.org.uk,1,['mission']
+landmarks.org,4,"['donate', 'foundation']"
+laphamsquarterly.org,4,"['donate', 'foundation']"
+lareviewofbooks.org,5,"['nonprofit', 'donate']"
+lavistachurchofchrist.org,1,['mission']
+learntomeditate.org,4,"['charity', 'foundation']"
+leelabsg.org,2,['foundation']
+legalaidsc.org,2,['donate']
+lelladbenessere.org,1,['mission']
+lessplastic.org.uk,2,['donate']
+libreoffice.org,3,"['foundation', 'mission']"
+libretexts.org,3,"['foundation', 'mission']"
+librivox.org,1,['mission']
+lions103est.org,1,['mission']
+litpress.org,1,['mission']
+littleportionhermitage.org,5,"['charity', 'donate', 'mission']"
+lmfdb.org,2,['foundation']
+lockman.org,3,"['foundation', 'mission']"
+look-up.org.uk,1,['mission']
+loulysenegal.org,2,['donate']
+loveburundi.org,4,"['charity', 'donate']"
+lucking.org,2,['charity']
+lyceeanisse.org,1,['mission']
+maddogtu.org,3,"['donate', 'mission']"
+mag-uk.org,1,['mission']
+mahj.org,3,"['donate', 'mission']"
+mansfieldct-history.org,2,['donate']
+mapinc.org,1,['mission']
+marketplace.org,5,"['donate', 'foundation', 'mission']"
+marriagewell.org,2,['donate']
+martinlutherchurch1902.org,1,['mission']
+marylandsymphony.org,2,['donate']
+masskids.org,3,"['donate', 'mission']"
+meassociation.org.uk,5,"['charity', 'donate', 'mission']"
+mediafeed.org,4,"['nonprofit', 'mission']"
+medshadow.org,12,"['501(c)(3)', 'nonprofit', 'donate', 'foundation']"
+metlink.org,3,"['charity', 'mission']"
+metmuseum.org,1,['mission']
+mhanational.org,2,['foundation']
+mhrk.org,2,['donate']
+michaellanglois.org,1,['mission']
+milhilard.org,2,['donate']
+milkeneducatorawards.org,2,['foundation']
+millsarchive.org,6,"['charity', 'donate', 'foundation']"
+miraheze.org,2,['donate']
+misbb.org,7,"['501(c)(3)', 'donate']"
+missourifirearmscoalition.org,3,"['donate', 'mission']"
+mnaspa.org,3,['nonprofit']
+momsforliberty.org,8,"['nonprofit', 'donate', 'foundation', 'mission']"
+morganfamilycenter.org,3,"['donate', 'mission']"
+motivationalinterviewing.org,2,['donate']
+mountaineers.org,11,"['501(c)(3)', 'nonprofit', 'donate', 'mission']"
+movimentoeureka.org.br,2,['foundation']
+mozilla.org,2,['foundation']
+mozillazine.org,1,['mission']
+mrlib.org,11,"['501(c)(3)', 'nonprofit', 'donate', 'mission']"
+msp.org,1,['mission']
+munstertransition.org,1,['mission']
+museyeum.org,1,['mission']
+mutualfundguide.org,3,"['charity', 'mission']"
+mybrightonandhove.org.uk,2,['donate']
+myflr.org,2,['donate']
+myonechurch.org,4,"['nonprofit', 'mission']"
+nacla.org,5,"['charity', 'donate', 'mission']"
+namb.org,1,['mission']
+namisf.org,2,['donate']
+nantucketconservation.org,4,"['donate', 'foundation']"
+natcom.org,1,['mission']
+nationaldisasterrecovery.org,2,['foundation']
+naturalclimatechange.org,5,"['donate', 'foundation', 'mission']"
+navywivesclubsofamerica.org,2,['donate']
+ncronline.org,3,"['donate', 'mission']"
+nesdev.org,1,['mission']
+newbushtelegraph.org.au,2,['donate']
+newcastlepa.org,1,['mission']
+newenergycolorado.org,2,['donate']
+newohiotheatre.org,5,"['donate', 'foundation', 'mission']"
+newprosperityfoundation.org,2,['foundation']
+nm.org,1,['mission']
+nnepc.org,2,['donate']
+nuxiooiw.org,8,"['501(c)(3)', 'donate', 'mission']"
+nwhillsumc.org,2,['donate']
+nycplaywrights.org,1,['mission']
+nyhistory.org,1,['mission']
+oaklandwiki.org,2,['donate']
+oakparktownship.org,2,['donate']
+oasiseverywhere.org,2,['donate']
+ochs.org.uk,3,"['charity', 'mission']"
+ocp.org,1,['mission']
+oecd-ilibrary.org,1,['mission']
+oeis.org,2,['foundation']
+oercommons.org,2,['donate']
+oneforisrael.org,8,"['501(c)(3)', 'donate', 'mission']"
+onions-usa.org,1,['mission']
+onlinefocus.org,2,['donate']
+opcofamerica.org,2,['foundation']
+openbeautyfacts.org,1,['mission']
+ordinecostantinianoitalia.org,1,['mission']
+oremus.org,1,['mission']
+orlandparkprayercenter.org,2,['donate']
+oswca.org,1,['mission']
+ourfuture.org,5,"['nonprofit', 'donate']"
+ownthename.com,2,['foundation']
+oxfordhouse.org.uk,2,['charity']
+paleycenter.org,9,"['501(c)(3)', 'nonprofit', 'mission']"
+panoptykon.org,3,"['foundation', 'mission']"
+parksideprimaryschool.org,1,['mission']
+parma.org,2,['foundation']
+parolesdexperts.org,1,['mission']
+paroquiagloria.org.br,1,['mission']
+pathofcompassion.org,3,"['foundation', 'mission']"
+peeltech.org,1,['mission']
+pef.org,1,['mission']
+pelhamcommunityspirit.org,2,['donate']
+pellcenter.org,1,['mission']
+pen.org,2,['donate']
+pepmeup.org,2,['foundation']
+pffpnc.org,2,['foundation']
+philanthropyroundtable.org,2,['donate']
+philpapers.org,2,['foundation']
+phscof.org,10,"['501(c)(3)', 'donate', 'foundation', 'mission']"
+phys.org,3,"['donate', 'mission']"
+plays.org,2,['foundation']
+plos.org,11,"['501(c)(3)', 'nonprofit', 'foundation', 'mission']"
+poets.org,3,"['donate', 'mission']"
+pomonachamber.org,1,['mission']
+portaransas.org,2,['foundation']
+ppsspp.org,1,['mission']
+preblestreet.org,5,"['donate', 'foundation', 'mission']"
+projectchrono.org,1,['mission']
+projectleftbehind.org,7,"['501(c)(3)', 'donate']"
+projectparalink.org,2,['foundation']
+projectpneuma.org,9,"['501(c)(3)', 'donate', 'foundation']"
+prota4u.org,2,['foundation']
+providence.org,3,"['foundation', 'mission']"
+prx.org,2,['donate']
+psychologicalscience.org,2,['foundation']
+psychotherapynetworker.org,1,['mission']
+python.org,4,"['donate', 'foundation']"
+qaf.org.tw,2,['foundation']
+racism.org,1,['mission']
+radiancefoundation.org,5,"['donate', 'foundation', 'mission']"
+rapusia.org,2,['foundation']
+raritanheadwaters.org,2,['donate']
+rccgstevenage.org.uk,1,['mission']
+rccgvtct.org.za,1,['mission']
+rcfdenver.org,7,"['nonprofit', 'donate', 'foundation']"
+rclacombe.org,1,['mission']
+rctc.org,1,['mission']
+reelingfreedom.org,9,"['501(c)(3)', 'donate', 'foundation']"
+reimaginerpe.org,6,"['nonprofit', 'donate', 'mission']"
+rettsyndrome.org,5,"['donate', 'foundation', 'mission']"
+rfg.org,3,"['foundation', 'mission']"
+righttoknow.org.au,7,"['charity', 'donate', 'foundation', 'mission']"
+rip.org.uk,2,['charity']
+ritalangworthyfoundation.org,2,['foundation']
+roberthjackson.org,3,"['donate', 'mission']"
+robertstavinsblog.org,1,['mission']
+roccnet.org,6,"['nonprofit', 'donate', 'mission']"
+rotaplast.org,10,"['501(c)(3)', 'donate', 'foundation', 'mission']"
+rspcadoncasterrotherham.org.uk,4,"['charity', 'donate']"
+saarctb.org,1,['mission']
+safeandjustmi.org,3,"['donate', 'mission']"
+sagmoraine.org,2,['donate']
+sah-archipedia.org,3,"['donate', 'mission']"
+sahistory.org.za,2,['donate']
+saintvdp.org,3,"['donate', 'mission']"
+sandiego.org,1,['mission']
+saotd-fr.org,2,['donate']
+schoenstatt.org,1,['mission']
+sciencegenderequity.org.au,1,['mission']
+sciencesport.org,2,['donate']
+scitech.org.au,1,['mission']
+scituatelibrary.org,1,['mission']
+sdfhs.org,2,['charity']
+seedimpact.org,11,"['501(c)(3)', 'nonprofit', 'donate', 'mission']"
+seekinformation.org,5,"['nonprofit', 'foundation']"
+segaretro.org,2,['donate']
+segsprescue.org,3,"['donate', 'mission']"
+selfhelpafrica.org,4,"['charity', 'donate']"
+shadesofusafrica.org,2,['donate']
+sheboygan.org,2,['foundation']
+siac.org.sg,3,"['foundation', 'mission']"
+simplemehndidesign.org,2,['foundation']
+sinhvienusa.org,8,"['501(c)(3)', 'nonprofit']"
+siumed.org,2,['donate']
+sjehydes.org,1,['mission']
+snfcc.org,3,"['foundation', 'mission']"
+snpo.org,4,"['nonprofit', 'mission']"
+socialhistory.org,2,['donate']
+somervillenj.org,3,"['donate', 'mission']"
+sortix.org,1,['mission']
+souktel.org,2,['foundation']
+sound2020.org,1,['mission']
+southsidefoundation.org,4,"['donate', 'foundation']"
+spanadvocacy.org,4,"['donate', 'foundation']"
+spectrumgenerations.org,1,['mission']
+sportingequals.org.uk,4,"['charity', 'foundation']"
+st-helens.org.uk,2,['charity']
+stanthonydsm.org,1,['mission']
+stencilarchive.org,3,"['donate', 'mission']"
+stewartmemorial.org,2,['donate']
+stjohnsorange.org,1,['mission']
+stjosephlyon.org,1,['mission']
+stmaryscastlestreet.org.uk,1,['mission']
+stninianscommunitychurch.org,2,['charity']
+stressfreeschoolfoundation.org,4,"['donate', 'foundation']"
+studiotomassaraceno.org,5,"['donate', 'foundation', 'mission']"
+summitpost.org,1,['mission']
+tabledebates.org,1,['mission']
+tcboe.org,1,['mission']
+tdhj.org,2,['donate']
+templeoftriumph.org,1,['mission']
+tenacity.org,7,"['501(c)(3)', 'donate']"
+tensorflow.org,1,['mission']
+texasdawgsbaseball.org,1,['mission']
+texastribune.org,6,"['nonprofit', 'donate', 'mission']"
+tfn.org,3,"['donate', 'mission']"
+thecasecentre.org,1,['mission']
+thedigitalschool.org,3,"['foundation', 'mission']"
+thegreenhub.org,1,['mission']
+thehickman.org,3,"['donate', 'mission']"
+thehowcenter.org,2,['donate']
+thehubbikecoop.org,1,['mission']
+thejewishmuseum.org,5,"['donate', 'foundation', 'mission']"
+thelegit.org,2,['foundation']
+thenash.org,2,['donate']
+theneustadt.org,2,['donate']
+thepastpresently.org,1,['mission']
+thetorch.org.au,1,['mission']
+thewaterproject.org,9,"['501(c)(3)', 'charity', 'donate']"
+thewyldlifefund.org,4,"['donate', 'foundation']"
+thirdcoastactivist.org,2,['donate']
+thisismosaic.org,1,['mission']
+thomasgray.org,5,"['charity', 'foundation', 'mission']"
+thoracicrad.org,3,"['donate', 'mission']"
+tidalforce.org,1,['mission']
+tizen.org,3,"['foundation', 'mission']"
+towervillecc.org,3,"['donate', 'mission']"
+tpr.org,5,"['nonprofit', 'donate']"
+trainingforpeace.org,1,['mission']
+transgressivelearning.org,2,['foundation']
+treebase.org,1,['mission']
+triathlon.org,1,['mission']
+trucksafety.org,2,['donate']
+trypo.org,2,['donate']
+tsd.org,1,['mission']
+ttoc.org,3,"['donate', 'mission']"
+tyhafan.org,1,['mission']
+typo3.org,1,['mission']
+ucsusa.org,11,"['501(c)(3)', 'nonprofit', 'donate', 'mission']"
+ucutucuman.org,1,['mission']
+un.org,3,"['donate', 'mission']"
+unesco.org,3,"['donate', 'mission']"
+unicode.org,1,['mission']
+usacbi.org,2,['donate']
+ushmm.org,2,['donate']
+uwp.org,2,['donate']
+venturize.org,8,"['501(c)(3)', 'nonprofit']"
+vibempac.org,1,['mission']
+virmer.org,1,['mission']
+vumc.org,2,['foundation']
+vvmf.org,6,"['nonprofit', 'donate', 'mission']"
+wamc.org,2,['donate']
+wardfellowship.org,2,['donate']
+wbur.org,2,['donate']
+wca4kids.org,3,"['donate', 'mission']"
+wchsmn.org,3,"['donate', 'mission']"
+webdoky.org,1,['mission']
+webonary.org,5,"['donate', 'foundation', 'mission']"
+wedibuffalo.org,3,"['donate', 'mission']"
+wers.org,2,['donate']
+westchesterlibraries.org,2,['donate']
+westgrinstead.org,2,['donate']
+wheatondrama.org,2,['donate']
+whitneyumc.org,3,"['donate', 'mission']"
+whywerefuse.org,1,['mission']
+wikem.org,5,"['donate', 'foundation', 'mission']"
+wikidata.org,2,['donate']
+wikigallery.org,1,['mission']
+wikimedia.org,2,['donate']
+wikinews.org,7,"['501(c)(3)', 'foundation']"
+wikipedia.org,5,"['donate', 'foundation', 'mission']"
+wisdomlib.org,2,['donate']
+withdrawconsent.org,2,['foundation']
+woodturner.org,8,"['501(c)(3)', 'nonprofit']"
+wordpress.org,7,"['charity', 'donate', 'foundation', 'mission']"
+worldobesity.org,3,"['charity', 'mission']"
+worldofchildren.org,5,"['nonprofit', 'charity']"
+worldpeacemusicfest.org,3,"['donate', 'mission']"
+wsa-global.org,1,['mission']
+wsha.org,2,['charity']
+ww1cc.org,5,"['donate', 'foundation', 'mission']"
+x-teens.org,1,['mission']
+xwiki.org,2,['donate']
+yeseverykidfoundation.org,9,"['501(c)(3)', 'donate', 'foundation']"
+yinuo555.org,3,"['foundation', 'mission']"
+ymcasteuben.org,8,"['501(c)(3)', 'donate', 'mission']"
+yugo.org,3,"['donate', 'mission']"
+z88dk.org,1,['mission']
+zipwithus.org,10,"['501(c)(3)', 'charity', 'donate', 'mission']"
+zoa.org,8,"['501(c)(3)', 'donate', 'mission']"
+zsl.org,4,"['charity', 'donate']"
